@@ -24,8 +24,6 @@ a:hover {
     text-decoration: underline 2px;
 }
 
-
-
 a:last-child:hover{
     text-decoration: none;
 }
@@ -49,4 +47,4 @@ a::before {
 #button:hover {
     background-color: #f34660;
 
-}
+} 
