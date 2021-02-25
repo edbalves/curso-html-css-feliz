@@ -1,4 +1,4 @@
-.action {
+.main-action {
     color: #fff;
     font-size: 20px;
     text-decoration: none;
@@ -8,15 +8,15 @@
     align-items: center;
 }
 
-.action:hover {
+.main-action:hover {
     text-decoration: underline 2px;
 }
 
-.action:last-child:hover{
+.main-action:last-child:hover{
     text-decoration: none;
 }
 
-.action::before {
+.main-action::before {
     content: "";
     margin-right: 10px;
     width: 10px;
